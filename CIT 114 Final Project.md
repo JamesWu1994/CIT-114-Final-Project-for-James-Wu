@@ -18,3 +18,5 @@
 9. Let's say our storage requirement allows for a delayed retrieval of data (ie. medical records from ex-patients). Which S3 feature should we choose?
 
 10. List and briefly describe the four basic database commands.
+
+URL: https://s3.amazonaws.com/james.wu.cit114.finalproject/index.html
